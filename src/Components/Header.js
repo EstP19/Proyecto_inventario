@@ -28,7 +28,7 @@ color: #ccc;;
 
 const items = [
     { name: 'Curriculum', link: '#Curriculum' },
-    { name: 'Repositorio', link: '#Repositorio' }
+    { name: 'Repositorio', link: '#Repositories' }
 ]
 
 export function Header() {
